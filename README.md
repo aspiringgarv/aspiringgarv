@@ -24,7 +24,7 @@
 
 
 
+![Snake animation](https://github.com/aspiringgarv/aspiringgarv/blob/output/github-contribution-grid-snake.svg)
 
 
-[![aspiringgarv's GitHub | Stats](https://stats.quine.sh/aspiringgarv/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=aspiringgarv)
 
