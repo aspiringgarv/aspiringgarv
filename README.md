@@ -4,11 +4,12 @@
 - 🌱 I’m currently learning **Flutter**
 
 - 👯 I’m looking to collaborate on **some interesting projects**
-
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" align = "right">
 - 💬 Ask me about **cross platform development(flutter)**
 
 - 📫 How to reach me **garvarora778@gmail.com**
 
+<img src="https://media.giphy.com/media/E89xxATM4iZoPdr6Tb/giphy.gif" width="300" align = "right">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/garv-arora-76b18120b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="garv-arora-76b18120b" height="30" width="40" /></a>
